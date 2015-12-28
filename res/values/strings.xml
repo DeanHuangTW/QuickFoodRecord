@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickFoodRecord</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="item_record">紀錄</string>
+    <string name="item_query">查詢</string>
+    
+    <string name="item_store_name">店名:</string>
+    <string name="item_food_name">餐點:</string>
+    <string name="item_price">價格:</string>
+    <string name="item_place">地點:</string>
+    <string name="item_score">評分:</string>
+    <string name="item_memo">備註</string>
+</resources>
